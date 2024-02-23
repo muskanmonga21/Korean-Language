@@ -1,0 +1,114 @@
+*{
+    margin: 20px;
+    padding: auto;
+}
+body{
+    text-align: center;
+    border-top:20px solid rgb(62, 104, 182) ;
+    font-family: cursive;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.contaier{
+    margin: 0 auto;
+    position: relative;
+    padding: 30px;
+}
+.k-img{
+    width: 50%;
+    height: auto;
+}
+h1{
+    color: cornflowerblue;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Anurati;
+}
+p{
+    font-size:20px;
+    color:#5d54b3; 
+    font-weight: bold; 
+    text-align: center; 
+}
+article{
+    margin-top: 30px;
+    margin: 0 120px;
+}
+h2{
+    font-size: 30px;
+    color: rgb(62, 104, 182);
+    background-color: rgb(255, 255, 227) ;
+}
+ul{
+    padding: 0 100px;
+    margin: 0 80px;
+    text-align: left;
+}
+h3{
+    margin-top: 80px;
+    font-size: 30px;
+    color: rgb(62, 104, 182);
+    background-color: rgb(255, 255, 227) ;
+}
+.set-img{
+    top: 560px;
+    right: 300px;
+    position: absolute;
+    border: 2px solid black;
+}
+.hangul-img{
+    position: relative;
+    right: 60px;
+    top: -30px;
+}
+a:link{
+    color: #5d54b3;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px 20px;
+}
+.l{
+    display: inline-block;
+    text-align: center;
+}
+a:visited{
+    color: slateblue;
+}
+a:hover{
+    color: #3a26e8;
+    font-weight: bold;
+    text-decoration: underline #3a26e8;
+}
+footer{
+    font-size: 15px;
+    font-weight: bold;
+    border-top: 5px solid rgb(62, 104, 182);;
+}
+.words{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: initial;
+    padding: 60px 100px;
+}
+ul li{
+    color: rgb(0, 0, 1);
+    text-align: left;
+}
+.op{
+    text-align: left;
+    top: -290px;
+    right: -700px;
+    position: relative;
+}
+.c{
+    font-size: 30px;
+    text-align: center;
+    color: cornflowerblue;
+    font-family: Anurati;
+}
+
+.word{
+    text-decoration: underline;
+    color: aqua;
+}
